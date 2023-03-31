@@ -1,3 +1,3 @@
-# OOC-Tutes
+# OOC-Tutorials
 
-All OOC Tutes goes here
+All OOC Tutorials goes here
